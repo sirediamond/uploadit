@@ -59,7 +59,7 @@ class MyEventHandler extends \danog\MadelineProto\EventHandler
     /**
      * @var int|string Username or ID of bot admin
      */
-    const ADMIN = 'danogentili'; // Change this
+    const ADMIN = '787734551'; // Change this
 
     /**
      * Get peer(s) where to report errors.
